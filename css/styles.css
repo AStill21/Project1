@@ -1,5 +1,7 @@
 body {
-  background-color: rgba(31, 223, 31, 0.918);
+  background-color: rgba(31, 114, 223, 0.918);
+  font-family: sans-serif;
+
 }
 img {
   display: block;
@@ -7,7 +9,7 @@ img {
 }
 .centered-image {
   margin: auto;
-  width: 50%;
+  width: 45%;
   height: auto;
   display: block;
 }
