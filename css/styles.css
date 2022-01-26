@@ -35,14 +35,6 @@ img {
   flex-direction: row-reverse;
 }
 
-.box1 {
-  width: 50%;
-  border: solid rgb(154, 224, 22);
-  border-width: 1px;
-  background-color: orange;
-  margin-bottom: 10px;
-  box-sizing: border-box;
-}
 .nice {
   font-weight: bold;
   color: blue;
