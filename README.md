@@ -1,4 +1,4 @@
-# culture
+# All About Me
 #### By _**{Amiya Stillwell}**_
 
 #### _{Cultural appretiation, a page where people can respectfully lear about eachother.}_
@@ -27,7 +27,7 @@ _{This webpage where people can learn about me, the author. It's like my own per
 
 ## Known Bugs
 
-* _Pictures on idex and favorite-things pages not coming up_
+* _Pictures on index and favorite-things pages not coming up_
 * _some css styles do not work_
 * _picture sizing_
 
@@ -38,5 +38,8 @@ _If you run into any issues, have questions, ideas or concerns. Please, I encour
 stillwell.amiya@gmail.com
 add me on discord at AmiyaS.(she/her)#4196 
 Or make a contribution to the code! :)_
+
+CHeck out my project on GitHub! https://github.com/AStill21/Project1.git
+Check out my page directly! file:///C:/Users/Amiya/Desktop/p1redo/index.html
 
 Copyright (c) _2022_ _Amiya Stillwell_
