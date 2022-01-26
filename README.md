@@ -28,8 +28,9 @@ _{This webpage where people can learn about me, the author. It's like my own per
 ## Known Bugs
 
 * _Pictures on index and favorite-things pages not coming up_
-* _some css styles do not work_
-* _picture sizing_
+* _some css styles do not work, such ass background color fir index page._
+* _picture sizing, too big_
+*_Card class not working_
 
 ## License
 ### MIT
