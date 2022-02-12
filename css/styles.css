@@ -2,6 +2,7 @@ body {
   background-color: rgba(31, 114, 223, 0.918);
   font-family: sans-serif;
   color: royalblue;
+  text-align: justify;
 }
 img {
   display: block;
